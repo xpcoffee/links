@@ -1,0 +1,11 @@
+{
+  "name": "A remote link group",
+  "type": "group",
+  "items": [
+    {
+      "type": "link",
+      "url": "https://github.com",
+      "title": "Github"
+    }
+  ]
+}
